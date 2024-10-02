@@ -37,4 +37,4 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalgowda8660&" alt="prajwalgowda8660" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chandananmgowda&" alt="Chandananmgowda" /></p>
